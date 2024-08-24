@@ -28,4 +28,16 @@ CSS Styling: The CSS styles the page, making it visually appealing with modern d
 
 ![Screenshot 2024-08-24 223130](https://github.com/user-attachments/assets/28ee34b1-dec0-48c3-ab4c-d6349a4c2341)
 
-Th 
+# TASK 03 -
+This is a Blogging Platform Copied by Medium .
+Medium is an online publishing platform where users can create, share, and discover content. it hosts a wide range of articles, stories, and ideas from professionals, experts, and everyday writers, offering both free and paid memberships for access to premium content. 
+Medium focuses on quality writing and community engagement, making it a popular space for thought leadership and storytelling.
+This is the link my Blogging site (Medium):- https://transcendent-haupia-695132.netlify.app
+
+
+
+![Screenshot 2024-08-24 230001](https://github.com/user-attachments/assets/6cf7448d-87f5-458c-b5ab-a9931b813fa9)
+![Screenshot 2024-08-24 230034](https://github.com/user-attachments/assets/e567f4c5-c2a1-4ecf-a655-9340be3a75d0)
+
+
+
